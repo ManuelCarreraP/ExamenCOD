@@ -7,7 +7,7 @@ import java.sql.SQLException;
  */
 public class BD {
     /**
-     * Metodo para obtener la conexion
+     * Metodo para obtener la conexión
      * @return product name
      */
     public String getConexion() throws SQLException {
