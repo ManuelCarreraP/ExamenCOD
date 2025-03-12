@@ -26,3 +26,9 @@ Aceptaremos las solicitudes de pull request de las ramas y crearemos sus issues 
 ## Finalizar:
 
 Explicación del proceso en el Readme.md y subirlo a github sin mergearlo.
+
+```bash
+# Añadir la versión 1.0 de release
+git tag v1.0
+git push origin v1.0
+```
