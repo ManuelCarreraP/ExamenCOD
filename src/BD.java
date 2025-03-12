@@ -17,7 +17,7 @@ public class BD {
     }
 
     /**
-     * Metodo para cerrar la conexion
+     * Metodo para cerrar la conexión
      */
     public void cerrarConexion() {
         // cerramos la conexion
