@@ -19,3 +19,10 @@ git add src\Interface.java
 git commit -m "Pull request para Mergear Interface con Main"
 - Posteriormente haremos un push para que se suba a github.
 ```
+## Desde Github:
+Aceptaremos las solicitudes de pull request de las ramas y crearemos sus issues correspondientes.
+
+
+## Finalizar:
+
+Explicación del proceso en el Readme.md y subirlo a github sin mergearlo.
